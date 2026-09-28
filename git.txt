@@ -1,0 +1,13 @@
+git init
+git status
+git log
+git add index.html
+git add .
+git log --oneline
+git log --oneline --decorate --all
+git commit -m "commit"
+git switch 
+git branch
+git diff
+git diff --staged  or git --cached
+git switch --detach 7550c71  
